@@ -18,4 +18,8 @@ public class Sorted {
             }
         }
     }
+    public static void sort(int [] array){
+        selectionSort(array);
+    }
+
 }
